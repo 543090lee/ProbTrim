@@ -13,5 +13,5 @@ ProbTrim is a PC-based tool for accurate adapter contamination detection from se
 
 ## How to use?
 
-```bash python adapter_detector.py --contaminated_path path/to/adapters.fasta --clean_path path/to/clean_sequences.fasta --eval_path path/to/reads_to_check_contam.fastq --output_path results/contamination_results.csv ``` 
+```python run.py --contaminated_path path/to/adapters.fasta --clean_path path/to/clean_sequences.fasta --eval_path path/to/reads_to_check_contam.fastq --output_path results/contamination_results.csv ``` 
 
