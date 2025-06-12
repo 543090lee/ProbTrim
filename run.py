@@ -5,6 +5,8 @@ import numpy as np
 from Bio import SeqIO
 from tqdm import tqdm
 import random
+import argparse
+import pandas as pd
 
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
@@ -13,12 +15,12 @@ np.random.seed(42)
 random.seed(42)
 
 class AdapterDetectorCond:
-    def __init__(self, window_size=50, stride=10, num_latents=128):
+    def __init__(self, window_size=50, stride=3, num_latents=128):
         self.window_size = window_size
         self.stride = stride
         self.num_latents = num_latents
         self.pc = None
-        self.threshold = 0.5
+        self.threshold = 0.8
         self.base_mapping = {'A': 0, 'C': 1, 'G': 2, 'T': 3, 'N': 4}
         self.num_base_cats = 5
         self.num_label_cats = 2
@@ -98,12 +100,12 @@ class AdapterDetectorCond:
         input_dim = self.window_size + 1
         block_size = 8
         
-        ns = juice.structures.HCLT(
-            train_data.float().to(device),
+        ns = juice.structures.PD(
+            data_shape=(self.window_size + 1,),  
             num_latents=self.num_latents,
-            num_bins=16,
+            split_intervals=8,               
             input_node_params={'num_cats': max(self.num_base_cats, self.num_label_cats)},
-            block_size=block_size
+            block_size=8
         )
         
         pc = juice.compile(ns)
@@ -227,15 +229,55 @@ def load_sequences(fasta_path):
         sequences.append(str(record.seq))
     return sequences
 
-detector = AdapterDetectorCond(window_size=50, stride=10, num_latents=128)
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--contaminated_path', required=True)
+    parser.add_argument('--clean_path', required=True)
+    parser.add_argument('--eval_path', required=True)
+    parser.add_argument('--output_path', required=True)
+    parser.add_argument('--file_format', default='fastq')
+    parser.add_argument('--window_size', type=int, default=50)
+    parser.add_argument('--stride', type=int, default=3)
+    parser.add_argument('--num_latents', type=int, default=128)
+    parser.add_argument('--epochs', type=int, default=100)
+    parser.add_argument('--batch_size', type=int, default=256)
+    parser.add_argument('--learning_rate', type=float, default=0.1)
+    parser.add_argument('--threshold', type=float, default=0.8)
+    
+    args = parser.parse_args()
 
-contaminated_sequences = load_sequences("path to univec ")
-clean_sequences = load_sequences("path to background")
+    detector = AdapterDetectorCond(
+        window_size=args.window_size, 
+        stride=args.stride, 
+        num_latents=args.num_latents
+    )
 
-detector.train_cond(
-    contaminated_sequences,
-    clean_sequences,
-    epochs=100,
-    batch_size=256,
-    learning_rate=0.1
-)
+    contaminated_sequences = load_sequences(args.contaminated_path)
+    clean_sequences = load_sequences(args.clean_path)
+
+    detector.train_cond(
+        contaminated_sequences,
+        clean_sequences,
+        epochs=args.epochs,
+        batch_size=args.batch_size,
+        learning_rate=args.learning_rate
+    )
+
+    results = []
+
+    for read in tqdm(SeqIO.parse(args.eval_path, args.file_format)):
+        result = detector.detect_contamination(str(read.seq), threshold=args.threshold)
+        results.append({
+            'id': read.id,
+            'length': len(read.seq),
+            'contamination_score': float(result['score']),
+            'log_ratio': float(result['log_ratio']),
+            'contaminated': bool(result['contaminated']),
+            'position': int(result['position']) if result['position'] is not None else None,
+        })
+
+    results_df = pd.DataFrame(results)
+    results_df.to_csv(args.output_path, index=False)
+
+if __name__ == "__main__":
+    main()

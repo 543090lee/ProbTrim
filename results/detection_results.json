@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "contaminated_62_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.7642007870408826,
+    "log_ratio": 1.1758499145507812,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_170_pure_clean",
+    "length": 52,
+    "contamination_score": 0.4934209806145063,
+    "log_ratio": -0.026317596435546875,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_27_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8762646716164376,
+    "log_ratio": 1.9575233459472656,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_133_pure_clean",
+    "length": 52,
+    "contamination_score": 0.4939530459999692,
+    "log_ratio": -0.024188995361328125,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_46_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9841020852968523,
+    "log_ratio": 4.125541687011719,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_90_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9466958948573407,
+    "log_ratio": 2.876964569091797,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_158_pure_clean",
+    "length": 52,
+    "contamination_score": 0.21790258259689868,
+    "log_ratio": -1.2779312133789062,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_50_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9156470094026348,
+    "log_ratio": 2.3846206665039062,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_31_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.4820157419886916,
+    "log_ratio": -0.07196807861328125,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_162_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5228170121272646,
+    "log_ratio": 0.09133148193359375,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_80_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9830828664058789,
+    "log_ratio": 4.062366485595703,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_4_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9770833543681317,
+    "log_ratio": 3.7527084350585938,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_124_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6697060289200946,
+    "log_ratio": 0.7068557739257812,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_111_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8979004065109897,
+    "log_ratio": 2.1741104125976562,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_22_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9868439574668332,
+    "log_ratio": 4.317630767822266,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_139_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6572359949898919,
+    "log_ratio": 0.6510009765625,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_194_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6424605182783779,
+    "log_ratio": 0.5860595703125,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_32_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8155012517826884,
+    "log_ratio": 1.4861602783203125,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_105_pure_clean",
+    "length": 52,
+    "contamination_score": 0.14408627199849947,
+    "log_ratio": -1.7817573547363281,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_126_pure_clean",
+    "length": 52,
+    "contamination_score": 0.9295871133033252,
+    "log_ratio": 2.580364227294922,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_11_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8857152924832656,
+    "log_ratio": 2.0477027893066406,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_196_pure_clean",
+    "length": 52,
+    "contamination_score": 0.7728750356752111,
+    "log_ratio": 1.2246170043945312,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_188_pure_clean",
+    "length": 52,
+    "contamination_score": 0.44776872022952025,
+    "log_ratio": -0.20969009399414062,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_45_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.958963609843567,
+    "log_ratio": 3.1513938903808594,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_99_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9980203670666299,
+    "log_ratio": 6.222862243652344,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_165_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6921691346226675,
+    "log_ratio": 0.8102798461914062,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_57_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9809333391730467,
+    "log_ratio": 3.940563201904297,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_145_pure_clean",
+    "length": 52,
+    "contamination_score": 0.33344894945182646,
+    "log_ratio": -0.692626953125,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_157_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8633254567358145,
+    "log_ratio": 1.8431892395019531,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_116_pure_clean",
+    "length": 52,
+    "contamination_score": 0.470703342496904,
+    "log_ratio": -0.11732101440429688,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_122_pure_clean",
+    "length": 52,
+    "contamination_score": 0.4240076019419565,
+    "log_ratio": -0.30634307861328125,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_107_pure_clean",
+    "length": 52,
+    "contamination_score": 0.3256570821244145,
+    "log_ratio": -0.7278938293457031,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_135_pure_clean",
+    "length": 52,
+    "contamination_score": 0.7656446942831378,
+    "log_ratio": 1.1838798522949219,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_86_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.40659595480238675,
+    "log_ratio": -0.3780555725097656,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_14_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9401101747975251,
+    "log_ratio": 2.753490447998047,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_49_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9337045383354087,
+    "log_ratio": 2.645038604736328,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_108_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5901500903852209,
+    "log_ratio": 0.36458587646484375,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_173_pure_clean",
+    "length": 52,
+    "contamination_score": 0.3014431699677603,
+    "log_ratio": -0.8404350280761719,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_41_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.7700469275165969,
+    "log_ratio": 1.2085762023925781,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_146_pure_clean",
+    "length": 52,
+    "contamination_score": 0.1045308717462001,
+    "log_ratio": -2.1478652954101562,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_161_pure_clean",
+    "length": 52,
+    "contamination_score": 0.4342766583566198,
+    "log_ratio": -0.2644233703613281,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_13_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8590551689172197,
+    "log_ratio": 1.807464599609375,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_163_pure_clean",
+    "length": 52,
+    "contamination_score": 0.7175951316293655,
+    "log_ratio": 0.9325637817382812,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_176_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6687847823116965,
+    "log_ratio": 0.7026939392089844,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_30_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9046064335550635,
+    "log_ratio": 2.2494888305664062,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_171_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6355944918334481,
+    "log_ratio": 0.5562934875488281,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_141_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5678598515788871,
+    "log_ratio": 0.27312469482421875,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_153_pure_clean",
+    "length": 52,
+    "contamination_score": 0.601863247577957,
+    "log_ratio": 0.4132347106933594,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_38_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9745641825376151,
+    "log_ratio": 3.645832061767578,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_112_pure_clean",
+    "length": 52,
+    "contamination_score": 0.783058039873633,
+    "log_ratio": 1.2835769653320312,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_17_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9662896748455381,
+    "log_ratio": 3.3556594848632812,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_70_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.640936152834622,
+    "log_ratio": 0.5794296264648438,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_185_pure_clean",
+    "length": 52,
+    "contamination_score": 0.730034329066207,
+    "log_ratio": 0.9947967529296875,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_114_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8862605409629055,
+    "log_ratio": 2.0531005859375,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_85_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9549524794212902,
+    "log_ratio": 3.053943634033203,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_61_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9474716807961854,
+    "log_ratio": 2.892444610595703,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_2_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9389227376899096,
+    "log_ratio": 2.732593536376953,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_119_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6541667114507967,
+    "log_ratio": 0.6374053955078125,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_54_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.7976091560780431,
+    "log_ratio": 1.3714179992675781,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_40_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8490025205973467,
+    "log_ratio": 1.7267990112304688,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_1_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9544685462971014,
+    "log_ratio": 3.0427513122558594,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_155_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6518277076472364,
+    "log_ratio": 0.6270828247070312,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_94_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8391272464107092,
+    "log_ratio": 1.6517486572265625,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_148_pure_clean",
+    "length": 52,
+    "contamination_score": 0.9832789817331445,
+    "log_ratio": 4.074226379394531,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_102_pure_clean",
+    "length": 52,
+    "contamination_score": 0.4815862047123569,
+    "log_ratio": -0.07368850708007812,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_76_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9855580126264517,
+    "log_ratio": 4.2230682373046875,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_127_pure_clean",
+    "length": 52,
+    "contamination_score": 0.635845379689599,
+    "log_ratio": 0.5573768615722656,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_44_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9381054112877906,
+    "log_ratio": 2.7184295654296875,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_24_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9636792708551661,
+    "log_ratio": 3.278369903564453,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_150_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5853919034430791,
+    "log_ratio": 0.34494781494140625,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_92_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8723940948161096,
+    "log_ratio": 1.9222946166992188,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_184_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5082533014992363,
+    "log_ratio": 0.033016204833984375,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_58_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.7691561054704114,
+    "log_ratio": 1.20355224609375,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_79_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9525646474819492,
+    "log_ratio": 2.9997901916503906,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_137_pure_clean",
+    "length": 52,
+    "contamination_score": 0.4218374181262644,
+    "log_ratio": -0.3152351379394531,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_175_pure_clean",
+    "length": 52,
+    "contamination_score": 0.7600472991196325,
+    "log_ratio": 1.1529388427734375,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_89_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8799723576993985,
+    "log_ratio": 1.9921684265136719,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_25_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.966962436100694,
+    "log_ratio": 3.376514434814453,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_60_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8394986976962703,
+    "log_ratio": 1.6545028686523438,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_134_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6080187102791794,
+    "log_ratio": 0.4389915466308594,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_180_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8085760992945292,
+    "log_ratio": 1.4407844543457031,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_197_pure_clean",
+    "length": 52,
+    "contamination_score": 0.48454872166629614,
+    "log_ratio": -0.061824798583984375,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_21_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9400237753323095,
+    "log_ratio": 2.7519569396972656,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_118_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8114164010812526,
+    "log_ratio": 1.4592399597167969,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_166_pure_clean",
+    "length": 52,
+    "contamination_score": 0.4597734096718877,
+    "log_ratio": -0.1612548828125,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_172_pure_clean",
+    "length": 52,
+    "contamination_score": 0.4731047126889141,
+    "log_ratio": -0.10768508911132812,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_177_pure_clean",
+    "length": 52,
+    "contamination_score": 0.7179876791393868,
+    "log_ratio": 0.9345016479492188,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_101_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5354694583559488,
+    "log_ratio": 0.14211654663085938,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_10_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8227817331668837,
+    "log_ratio": 1.535308837890625,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_9_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9765296609712124,
+    "log_ratio": 3.7282676696777344,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_82_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.930917558910428,
+    "log_ratio": 2.600870132446289,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_174_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8658363351979973,
+    "log_ratio": 1.8646354675292969,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_74_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8004965162981377,
+    "log_ratio": 1.3894004821777344,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_37_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9202599159088558,
+    "log_ratio": 2.4458837509155273,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_109_pure_clean",
+    "length": 52,
+    "contamination_score": 0.47280328249622783,
+    "log_ratio": -0.10889434814453125,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_69_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8887810431684677,
+    "log_ratio": 2.078350067138672,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_182_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5153483792126334,
+    "log_ratio": 0.061412811279296875,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_65_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8182034578061153,
+    "log_ratio": 1.5042228698730469,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_5_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9371809286153185,
+    "log_ratio": 2.702617645263672,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_192_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6855121070046232,
+    "log_ratio": 0.7792205810546875,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_189_pure_clean",
+    "length": 52,
+    "contamination_score": 0.3165210937124719,
+    "log_ratio": -0.769805908203125,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_117_pure_clean",
+    "length": 52,
+    "contamination_score": 0.33182220796378864,
+    "log_ratio": -0.6999549865722656,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_131_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5865959324828747,
+    "log_ratio": 0.3499107360839844,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_66_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9846431401379764,
+    "log_ratio": 4.160717010498047,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_8_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.7225484316187343,
+    "log_ratio": 0.9571380615234375,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_68_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.5017309119696814,
+    "log_ratio": 0.006923675537109375,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_199_pure_clean",
+    "length": 52,
+    "contamination_score": 0.43223563393572406,
+    "log_ratio": -0.272735595703125,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_103_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6025522710143767,
+    "log_ratio": 0.4161109924316406,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_149_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5214892488308175,
+    "log_ratio": 0.08600997924804688,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_104_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8202648209159765,
+    "log_ratio": 1.5181427001953125,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_51_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9251576166784613,
+    "log_ratio": 2.5145797729492188,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_132_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5820354645789535,
+    "log_ratio": 0.3311347961425781,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_53_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9878068318682427,
+    "log_ratio": 4.394611358642578,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_130_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8483342666750988,
+    "log_ratio": 1.7215957641601562,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_168_pure_clean",
+    "length": 52,
+    "contamination_score": 0.653615041673104,
+    "log_ratio": 0.6349678039550781,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_142_pure_clean",
+    "length": 52,
+    "contamination_score": 0.7861877470508601,
+    "log_ratio": 1.3020973205566406,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_3_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9721047276129758,
+    "log_ratio": 3.551006317138672,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_200_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6740219875620224,
+    "log_ratio": 0.7264328002929688,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_78_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9737697518571571,
+    "log_ratio": 3.6142616271972656,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_33_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8143753745116603,
+    "log_ratio": 1.4786949157714844,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_34_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9660756680748487,
+    "log_ratio": 3.349109649658203,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_91_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9507982346806743,
+    "log_ratio": 2.9613723754882812,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_87_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9649685507947128,
+    "log_ratio": 3.3158493041992188,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_167_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6063027002844372,
+    "log_ratio": 0.4317970275878906,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_43_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9111269009140283,
+    "log_ratio": 2.327472686767578,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_47_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9893866160492298,
+    "log_ratio": 4.534969329833984,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_128_pure_clean",
+    "length": 52,
+    "contamination_score": 0.295691279437152,
+    "log_ratio": -0.8679008483886719,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_59_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.6915469930591078,
+    "log_ratio": 0.8073616027832031,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_120_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6298430908485824,
+    "log_ratio": 0.5315437316894531,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_198_pure_clean",
+    "length": 52,
+    "contamination_score": 0.7348062105338554,
+    "log_ratio": 1.0191459655761719,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_48_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9695743376585286,
+    "log_ratio": 3.4615707397460938,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_55_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9493550114383531,
+    "log_ratio": 2.9309425354003906,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_115_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8427464015049881,
+    "log_ratio": 1.6788063049316406,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_93_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9074724986242017,
+    "log_ratio": 2.2831573486328125,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_81_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9458507220505529,
+    "log_ratio": 2.860340118408203,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_18_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8872458157824608,
+    "log_ratio": 2.0629119873046875,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_36_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8165492776214395,
+    "log_ratio": 1.4931411743164062,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_6_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9758158971925899,
+    "log_ratio": 3.6975784301757812,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_75_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8499697162991277,
+    "log_ratio": 1.7343635559082031,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_136_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5300949180367017,
+    "log_ratio": 0.12052536010742188,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_67_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8966638820743844,
+    "log_ratio": 2.160694122314453,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_140_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8340708606665629,
+    "log_ratio": 1.6147575378417969,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_154_pure_clean",
+    "length": 52,
+    "contamination_score": 0.7212917454407121,
+    "log_ratio": 0.9508781433105469,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_183_pure_clean",
+    "length": 52,
+    "contamination_score": 0.7610365859043163,
+    "log_ratio": 1.1583709716796875,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_160_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6536487235141385,
+    "log_ratio": 0.6351165771484375,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_23_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8625376546690563,
+    "log_ratio": 1.8365287780761719,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_193_pure_clean",
+    "length": 52,
+    "contamination_score": 0.7001689617283747,
+    "log_ratio": 0.8481025695800781,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_191_pure_clean",
+    "length": 52,
+    "contamination_score": 0.9269203390318655,
+    "log_ratio": 2.5403175354003906,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_147_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8411081246541359,
+    "log_ratio": 1.6664962768554688,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_77_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9757075424418595,
+    "log_ratio": 3.6929969787597656,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_179_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6256159254128545,
+    "log_ratio": 0.5134544372558594,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_39_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8876143202440856,
+    "log_ratio": 2.066600799560547,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_106_pure_clean",
+    "length": 52,
+    "contamination_score": 0.9478661205466798,
+    "log_ratio": 2.9003982543945312,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_181_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6513436028621507,
+    "log_ratio": 0.6249504089355469,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_19_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.6396692377314209,
+    "log_ratio": 0.5739288330078125,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_35_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9400389359104958,
+    "log_ratio": 2.752225875854492,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_178_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8343119893760625,
+    "log_ratio": 1.6165008544921875,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_29_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9710437284208058,
+    "log_ratio": 3.512584686279297,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_73_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.720434346211822,
+    "log_ratio": 0.9466171264648438,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_187_pure_clean",
+    "length": 52,
+    "contamination_score": 0.9216272421982924,
+    "log_ratio": 2.4646644592285156,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_95_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9462193837983268,
+    "log_ratio": 2.8675613403320312,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_138_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5385187271712708,
+    "log_ratio": 0.15438079833984375,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_186_pure_clean",
+    "length": 52,
+    "contamination_score": 0.45312288649253596,
+    "log_ratio": -0.18806076049804688,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_88_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9967413641918672,
+    "log_ratio": 5.723182678222656,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_164_pure_clean",
+    "length": 52,
+    "contamination_score": 0.5572477416578713,
+    "log_ratio": 0.22999954223632812,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_15_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9900208967445281,
+    "log_ratio": 4.597232818603516,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_26_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9424384688692389,
+    "log_ratio": 2.7956161499023438,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_16_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.868664964993384,
+    "log_ratio": 1.8892059326171875,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_97_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9225597787078549,
+    "log_ratio": 2.4776458740234375,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_151_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8349085874071658,
+    "log_ratio": 1.6208229064941406,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_156_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8742538939790407,
+    "log_ratio": 1.9391059875488281,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_72_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9848847259781031,
+    "log_ratio": 4.17681884765625,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_64_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.853644397663841,
+    "log_ratio": 1.7634754180908203,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_125_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6621012670614066,
+    "log_ratio": 0.6726722717285156,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_100_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8082020710830919,
+    "log_ratio": 1.4383697509765625,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_169_pure_clean",
+    "length": 52,
+    "contamination_score": 0.7933749800559392,
+    "log_ratio": 1.3453903198242188,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_12_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.7788583201173462,
+    "log_ratio": 1.2590255737304688,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_121_pure_clean",
+    "length": 52,
+    "contamination_score": 0.393671804122636,
+    "log_ratio": -0.4319038391113281,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_152_pure_clean",
+    "length": 52,
+    "contamination_score": 0.9357329875065368,
+    "log_ratio": 2.67828369140625,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_123_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6376999999548123,
+    "log_ratio": 0.5653953552246094,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_195_pure_clean",
+    "length": 52,
+    "contamination_score": 0.7375378938686478,
+    "log_ratio": 1.0332107543945312,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_42_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.6586533949132706,
+    "log_ratio": 0.6572990417480469,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_63_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9211658570705996,
+    "log_ratio": 2.458293914794922,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_20_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9664996612270713,
+    "log_ratio": 3.3621253967285156,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_28_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9622688431009547,
+    "log_ratio": 3.2388076782226562,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_71_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9514035634171214,
+    "log_ratio": 2.9743881225585938,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_113_pure_clean",
+    "length": 52,
+    "contamination_score": 0.36604072670572924,
+    "log_ratio": -0.5492401123046875,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_129_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6553618649314237,
+    "log_ratio": 0.6426925659179688,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_159_pure_clean",
+    "length": 52,
+    "contamination_score": 0.776499824330315,
+    "log_ratio": 1.2453842163085938,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_56_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9648130889262138,
+    "log_ratio": 3.311260223388672,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_52_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.457540024428767,
+    "log_ratio": -0.17024993896484375,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_190_pure_clean",
+    "length": 52,
+    "contamination_score": 0.31888271773120286,
+    "log_ratio": -0.7589111328125,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_144_pure_clean",
+    "length": 52,
+    "contamination_score": 0.3516249593216735,
+    "log_ratio": -0.6119041442871094,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_143_pure_clean",
+    "length": 52,
+    "contamination_score": 0.8953276434170145,
+    "log_ratio": 2.1463546752929688,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_84_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.6707919492153972,
+    "log_ratio": 0.7117691040039062,
+    "contaminated": false,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_98_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.738221108732676,
+    "log_ratio": 1.0367431640625,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "clean_110_pure_clean",
+    "length": 52,
+    "contamination_score": 0.6009515451951859,
+    "log_ratio": 0.40943145751953125,
+    "contaminated": false,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_83_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.8790640613154285,
+    "log_ratio": 1.9835968017578125,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_7_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.9702902020856694,
+    "log_ratio": 3.4861183166503906,
+    "contaminated": true,
+    "position": 2,
+    "threshold": 0.7
+  },
+  {
+    "id": "contaminated_96_pure_adapter",
+    "length": 52,
+    "contamination_score": 0.863410505947666,
+    "log_ratio": 1.8439102172851562,
+    "contaminated": true,
+    "position": 0,
+    "threshold": 0.7
+  }
+]
